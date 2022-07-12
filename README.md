@@ -1,4 +1,6 @@
-<img src="(https://github.com/MeetnParmar/SpaceY/blob/main/Applied%20DS%20Project.png)">
+<img src="https://github.com/MeetnParmar/SpaceY/blob/main/Applied%20DS%20Project.png">
+
+## Index
 1. [**Data Collection with API**](https://github.com/MeetnParmar/SpaceY/blob/main/Data%20Collection%20with%20API.ipynb)
 2. [**Data Collection with Web Scraping**](https://github.com/MeetnParmar/SpaceY/blob/main/Data%20Collection%20with%20Web%20Scrapping.ipynb)
 3. [**Data Wrangling**](https://github.com/MeetnParmar/SpaceY/blob/main/Data%20Wrangling.ipynb)
