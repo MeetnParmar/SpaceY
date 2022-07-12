@@ -7,7 +7,7 @@
 6. [**Interactive Visual Analytics with Folium**](https://github.com/MeetnParmar/SpaceY/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 7. [**Dashboard Application with Plotly**](https://github.com/MeetnParmar/SpaceY/blob/main/spacex_dash_app.py)
 8. [**Machine Learning Prediction**](https://github.com/MeetnParmar/SpaceY/blob/main/Machine%20Learning%20Prediction.ipynb)
-9. [**Final Presentation**]
+9. [**Final Presentation**](https://github.com/MeetnParmar/SpaceY/blob/main/Applied%20Data%20Science%20Final%20Project.pptx)
 
 
 ### Acknowledgements 
